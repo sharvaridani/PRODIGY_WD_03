@@ -13,7 +13,7 @@ This repository contains a simple implementation of the classic Tic Tac Toe game
 
 ### Prerequisites
 
-- [List any prerequisites here, e.g., Python 3.x]
+- [Html Css JavaScript]
 
 ### Installation
 
